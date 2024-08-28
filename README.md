@@ -1,7 +1,7 @@
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-raphael.jicy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raphael.jicy@gmail.com)](mailto:raphael.jicy@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/S1gur3/S1gur3/blob/main/pic/sakura.gif" />
 
 ### I'm S1gur3
 
@@ -27,11 +27,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [AI换脸Rope珍珠版音频修复补丁]([https://github.com/S1gur3/Rope-audio-patch])
+- [AI换脸Rope珍珠版音频修复补丁](https://github.com/S1gur3/Rope-audio-patch)
 
 ### 关于我
-- [Bilibili]([https://space.bilibili.com/477407475])
+- [Bilibili](https://space.bilibili.com/477407475)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [S1gur3]([https://github.com/S1gur3])
+⭐️ From [S1gur3](https://github.com/S1gur3)
