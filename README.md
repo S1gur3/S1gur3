@@ -8,7 +8,6 @@
 - An AI Engineering Undergraduate Student.
 - 🌱 Currently working in Tokyo, Japan.
 - 💬 Ask me about Python, TypeScript and my projects on [raphael.jicy@gmail.com](mailto:raphael.jicy@gmail.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Ling Tosite Sigure🎸
 
 ### 🛠 技术栈 | Tech Stack
@@ -31,7 +30,7 @@
 - [AI换脸Rope珍珠版音频修复补丁](https://github.com/JoeyBling/bootplus)
 
 ### 关于我
-- [Bilibili]((https://space.bilibili.com/477407475))
+- [Bilibili](https://space.bilibili.com/477407475)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
